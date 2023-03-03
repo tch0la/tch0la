@@ -17,6 +17,7 @@
 ## Básico  ↴
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="100px" height="100px" align="left" />
    <div align="left"> <img src="C:\Users\JoaoV\OneDrive\Área_de_Trabalho\linha_reta.png" width="600px" /> </div>
+   <div align="left"> <img src="C:\Users\JoaoV\OneDrive\Área_de_Trabalho\linha_reta.png" width="600px" /> </div>
    <hr>
    <hr>
    <div align="left"> <img src="C:\Users\JoaoV\OneDrive\Área_de_Trabalho\linha_reta.png" width="600px" /> </div>
