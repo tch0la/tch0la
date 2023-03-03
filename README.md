@@ -20,4 +20,7 @@
    <hr>
    <div align="left"> <img src="C:\Users\JoaoV\OneDrive\Área_de_Trabalho\linha_reta.png" width="600px" /> </div>
    <img src="https://static.wikia.nocookie.net/infinitas-guerras/images/d/d8/68519967-guts-wallpapers.jpg/revision/latest?cb=20161106144319&path-prefix=pt-br" />
+   <div align="left"> <img src="C:\Users\JoaoV\OneDrive\Área_de_Trabalho\linha_reta.png" width="600px" /> </div>
+   <hr>
+   <div align="left"> <img src="C:\Users\JoaoV\OneDrive\Área_de_Trabalho\linha_reta.png" width="600px" /> </div>
    
