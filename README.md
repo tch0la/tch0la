@@ -1,6 +1,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tch0la&show_icons=true&theme=transparent)
 # Produzindo um jogo - Equipe ↴
-   ## ┃ https://github.com/tch0la - https://github.com/RamonTurek ┃
+   ## ┃ https://github.com/sxmyy - https://github.com/RamonTurek ┃
 ## Desenvolvimento de sistemas
 ##  Básico  ↴
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="100px" height="100px" align="left" />
